@@ -1,4 +1,4 @@
-# Covid19_detection_using_Chest_X_ray_images
+# Covid19DetectionUsingChestXrayImages
 COVID-19 tests are currently hard to come by — there are simply not enough of them and they cannot be manufactured fast enough, which is causing panic.
 
 When there’s panic, there are nefarious people looking to take advantage of others, namely by selling fake COVID-19 test kits after finding victims on social media platforms and chat applications.
